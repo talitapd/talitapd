@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Sou Talita, tenho 25 anos, moro em Belo Horizonte.
+
 <!--
 **talitapd/talitapd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
